@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian TETART</h1>
 <h3 align="center">A student in Computer Science Engineering School in France</h3>
 
-- 🌱 I’m currently learning **Cybersecurity related domains**
+- 🌱 I’m currently learning **Cybersecurity related domains** ( https://tryhackme.com/p/keiz44l )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
