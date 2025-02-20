@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian TETART</h1>
-<h3 align="center">Apprentice in Network and Security at Decathlon Technology</h3>
+<h3 align="center">Apprentice in Network and Security at Decathlon Technology </h3>
 
 - 🌱 I’m currently learning **Cybersecurity related domains** ( https://tryhackme.com/p/keiz44l )
 
