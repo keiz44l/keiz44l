@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian TETART</h1>
-<h3 align="center">Apprentice in Network and Security at Decathlon Technology </h3>
+<h3 align="center">Cybersecurity Engineer </h3>
 
-- 🌱 I’m currently learning **Cybersecurity related domains** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
